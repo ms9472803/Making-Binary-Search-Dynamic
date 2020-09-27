@@ -1,7 +1,7 @@
 # Making-Binary-Search-Dynamic
 
-Operation:
-  (1) Search
-  (2) Insert
-  (3) Delete
+operations:
+(1) Search: O(lg^2N)
+(2) Insert: O(lgN)
+(3) Delete
   
